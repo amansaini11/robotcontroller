@@ -1,0 +1,14 @@
+F:\Projects\RobotController\RobotController.UI\bin\Debug\RobotController.UI.exe.config
+F:\Projects\RobotController\RobotController.UI\bin\Debug\RobotController.UI.exe
+F:\Projects\RobotController\RobotController.UI\bin\Debug\RobotController.UI.pdb
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI.csprojResolveAssemblyReference.cache
+F:\Projects\RobotController\RobotController.UI\obj\Debug\MainWindow.g.cs
+F:\Projects\RobotController\RobotController.UI\obj\Debug\App.g.cs
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI_MarkupCompile.cache
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI_MarkupCompile.lref
+F:\Projects\RobotController\RobotController.UI\obj\Debug\MainWindow.baml
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI.g.resources
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI.Properties.Resources.resources
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI.csproj.GenerateResource.Cache
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI.exe
+F:\Projects\RobotController\RobotController.UI\obj\Debug\RobotController.UI.pdb

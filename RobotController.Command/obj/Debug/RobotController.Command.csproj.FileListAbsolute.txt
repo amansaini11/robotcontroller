@@ -1,0 +1,7 @@
+F:\Projects\RobotController\RobotController.Command\bin\Debug\RobotController.Command.dll
+F:\Projects\RobotController\RobotController.Command\bin\Debug\RobotController.Command.pdb
+F:\Projects\RobotController\RobotController.Command\bin\Debug\RobotController.SDK.dll
+F:\Projects\RobotController\RobotController.Command\bin\Debug\RobotController.SDK.pdb
+F:\Projects\RobotController\RobotController.Command\obj\Debug\RobotController.Command.csprojResolveAssemblyReference.cache
+F:\Projects\RobotController\RobotController.Command\obj\Debug\RobotController.Command.dll
+F:\Projects\RobotController\RobotController.Command\obj\Debug\RobotController.Command.pdb

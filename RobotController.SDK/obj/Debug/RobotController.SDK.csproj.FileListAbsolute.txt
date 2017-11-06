@@ -1,0 +1,4 @@
+F:\Projects\RobotController\RobotController.SDK\bin\Debug\RobotController.SDK.dll
+F:\Projects\RobotController\RobotController.SDK\bin\Debug\RobotController.SDK.pdb
+F:\Projects\RobotController\RobotController.SDK\obj\Debug\RobotController.SDK.dll
+F:\Projects\RobotController\RobotController.SDK\obj\Debug\RobotController.SDK.pdb

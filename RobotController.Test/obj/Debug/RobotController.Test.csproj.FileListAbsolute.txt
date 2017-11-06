@@ -1,0 +1,11 @@
+F:\Projects\RobotController\RobotController.Test\bin\Debug\RobotController.Test.dll
+F:\Projects\RobotController\RobotController.Test\bin\Debug\RobotController.Test.pdb
+F:\Projects\RobotController\RobotController.Test\bin\Debug\nunit.framework.dll
+F:\Projects\RobotController\RobotController.Test\bin\Debug\RobotController.Command.dll
+F:\Projects\RobotController\RobotController.Test\bin\Debug\RobotController.SDK.dll
+F:\Projects\RobotController\RobotController.Test\bin\Debug\RobotController.Command.pdb
+F:\Projects\RobotController\RobotController.Test\bin\Debug\nunit.framework.xml
+F:\Projects\RobotController\RobotController.Test\bin\Debug\RobotController.SDK.pdb
+F:\Projects\RobotController\RobotController.Test\obj\Debug\RobotController.Test.csprojResolveAssemblyReference.cache
+F:\Projects\RobotController\RobotController.Test\obj\Debug\RobotController.Test.dll
+F:\Projects\RobotController\RobotController.Test\obj\Debug\RobotController.Test.pdb
